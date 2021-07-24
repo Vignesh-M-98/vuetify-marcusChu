@@ -10,8 +10,7 @@
       <div class="md:border-r-2 sm:pr-2 md:pr-3 lg:pr-4 md:h-9 lg:h-10 xl:h-12 py-1.5 xl:py-2"><router-link :to="{ name : 'Home'}" class="nav-item"><span class="md:hover:border-white md:hover:border-b-2 pb-1 md:pb-2">HOME</span></router-link></div>
       <div class="md:border-r-2  sm:px-2 md:px-3 lg:px-4 md:h-9 lg:h-10 xl:h-12 py-1.5 xl:py-2"><router-link :to="{ name : 'Story'}" class="nav-item"><span class="md:hover:border-white md:hover:border-b-2 pb-1 mb:pb-2">STORY</span></router-link></div>
       <div class="md:border-r-2 sm:px-2 md:px-3 lg:px-4 md:h-9 lg:h-10 xl:h-12 py-1.5 xl:py-2"><router-link :to="{ name : 'Vision'}" class="nav-item"><span class="md:hover:border-white md:hover:border-b-2 pb-1 mb:pb-2">VISION</span></router-link></div>
-      <div class="sm:pl-2 md:pl-3 lg:pl-4 md:h-9 lg:h-10 xl:h-12 py-1.5 xl:py-2 hover:font-bold"><span class="md:hover:border-white md:hover:border-b-2  pb-1 md:pb-2 cursor-pointer">E-BOOKS</span></div>
-      </div>
+      <div class="sm:pl-2 md:pl-3 lg:pl-4 md:h-9 lg:h-10 xl:h-12 py-1.5 xl:py-2 hover:font-bold"><span class="md:hover:border-white md:hover:border-b-2  pb-1 md:pb-2 cursor-pointer">E-BOOKS</span></div></div>
       </div>
   </nav>
 </template>
